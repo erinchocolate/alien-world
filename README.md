@@ -1,4 +1,4 @@
-# Animation
+# Space World
 
 The program emulates a world with aliens and planets.
 
@@ -14,7 +14,7 @@ Rules:
 
 ## Demo
 
-![Animation](https://github.com/erinchocolate/swen502/blob/master/Animation/animationDemo.gif)
+![Animation](https://github.com/erinchocolate/alien-world/blob/master/animationDemo.gif)
 
 ## Continued development
 
